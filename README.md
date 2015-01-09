@@ -8,3 +8,4 @@ Temporary repo for deployment testing
 * Getting ready for the deployment
 * Using exceptions for debuging
 * Fixing json decoding
+* Working on the 403s
