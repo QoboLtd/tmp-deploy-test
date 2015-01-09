@@ -6,3 +6,4 @@ Temporary repo for deployment testing
 * Created pull request
 * Merged pull request
 * Getting ready for the deployment
+* Using exceptions for debuging
