@@ -7,3 +7,4 @@ Temporary repo for deployment testing
 * Merged pull request
 * Getting ready for the deployment
 * Using exceptions for debuging
+* Fixing json decoding
