@@ -13,3 +13,4 @@ Temporary repo for deployment testing
 * Change User-Agent to an organization instead
 * Figuring the figures out
 * Hmm ...  ... ...
+* I wish there was an easier way to troubleshoot this all
