@@ -17,3 +17,4 @@ Temporary repo for deployment testing
 * Hmm ... ... ...
 * Proof of concept is ready. Time for details
 * It's working!
+* Even HipChat integration is working! Awesomeness
