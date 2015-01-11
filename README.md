@@ -16,3 +16,4 @@ Temporary repo for deployment testing
 * I wish there was an easier way to troubleshoot this all
 * Hmm ... ... ...
 * Proof of concept is ready. Time for details
+* It's working!
